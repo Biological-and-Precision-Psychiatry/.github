@@ -1,4 +1,8 @@
-## Hi there 👋
+#  Biological and Precision Psychiatry
+
+Check out our repositories :-)
+
+We have an *R*-package called *CRP*: Check it out [here](https://biological-and-precision-psychiatry.github.io/CRP/).
 
 <!--
 

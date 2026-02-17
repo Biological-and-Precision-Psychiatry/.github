@@ -1,3 +1,3 @@
 #  Biological and Precision Psychiatry
 
-Check out our repositories :-)
+The landing page `README.md` is here: [/profile/README.md](/profile/README.md)
