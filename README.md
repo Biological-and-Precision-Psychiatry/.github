@@ -1,2 +1,3 @@
-# .github
-Public landing README page for Biological and Precision Psychiatry
+#  Biological and Precision Psychiatry
+
+Check out our repositories :-)
